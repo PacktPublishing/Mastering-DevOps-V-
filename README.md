@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/mastering-devops-video/9781786468048)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Mastering DevOps
 This video course covers the theory behind and hands-on application of concepts needed to maximize the throughput of your organization.. The course introduces key introductory areas as well as using tools to leverage DevOps solutions for common problems. The course maintains a deeper insight of applying DevOps with a variety of tools such as Puppet, Vagrant, and Graphite.
 # Audience:
