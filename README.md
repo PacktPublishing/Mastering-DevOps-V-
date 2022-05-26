@@ -1,3 +1,7 @@
+## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/V05504?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
+-----
+For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
+
 # Mastering DevOps
 This video course covers the theory behind and hands-on application of concepts needed to maximize the throughput of your organization.. The course introduces key introductory areas as well as using tools to leverage DevOps solutions for common problems. The course maintains a deeper insight of applying DevOps with a variety of tools such as Puppet, Vagrant, and Graphite.
 # Audience:
