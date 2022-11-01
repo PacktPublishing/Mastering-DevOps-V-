@@ -17,7 +17,3 @@ Manage your day to day challenges with IT infrastructure by taking advantage of 
 * Helps you level up your DevOps expertise without expecting a strong set of pre-requisites.
 * Learn to continuously deliver better software by following theory combined with a tool-based approach and gain hands-on exposure applicable to both software engineers and system administrators.
 * Gain skills in order to add resilient services to your app or infrastructure by learning configuration management, continuous deployment, and other DevOps techniques.
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781786468048">https://packt.link/free-ebook/9781786468048 </a> </p>
