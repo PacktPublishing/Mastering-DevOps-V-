@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781786468048)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Mastering DevOps
 This video course covers the theory behind and hands-on application of concepts needed to maximize the throughput of your organization.. The course introduces key introductory areas as well as using tools to leverage DevOps solutions for common problems. The course maintains a deeper insight of applying DevOps with a variety of tools such as Puppet, Vagrant, and Graphite.
 # Audience:
